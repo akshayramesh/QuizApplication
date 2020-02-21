@@ -7,5 +7,4 @@
 3. Based on the performance, the marking system alots the user with the marks.
 4. The user at any time can see the number of questions remaining and on which question he is in. 
 
-![Image of basic design]
-(https://github.com/akshayramesh/QuizApplication/blob/master/IMG_20200221_231228.jpg)
+![Image of basic design](https://github.com/akshayramesh/QuizApplication/blob/master/IMG_20200221_231228.jpg)
