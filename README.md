@@ -6,3 +6,6 @@
 2. The user is able to see the choices available for the questions and choose the answer. If the answer is right, the system signals the same and displays the thrivia information related to same. If the answer is wrong, the system signals the same and points the right answer.
 3. Based on the performance, the marking system alots the user with the marks.
 4. The user at any time can see the number of questions remaining and on which question he is in. 
+
+![Image of basic design]
+(https://github.com/akshayramesh/QuizApplication/blob/master/IMG_20200221_231228.jpg)
