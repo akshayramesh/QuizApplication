@@ -15,6 +15,7 @@
 ## Technical details
 1. UI library/frameworks: Vue.js, bootstrap
 2. Backend: Node js
-3. DB: <to be analyzed>
+3. DB: (to be analyzed)
+
   
   
