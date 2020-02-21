@@ -17,5 +17,8 @@
 2. Backend: Node js
 3. DB: (to be analyzed)
 
+## Resources
+Vue js: https://www.youtube.com/watch?v=4deVCNJq3qc&t=3111s 
+
   
   
