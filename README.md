@@ -19,6 +19,7 @@
 
 ## Resources
 Vue js: https://www.youtube.com/watch?v=4deVCNJq3qc&t=3111s 
+Bootstrap: https://getbootstrap.com/docs
 
   
   
