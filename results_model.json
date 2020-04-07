@@ -1,0 +1,20 @@
+{
+  "user": "7887",
+  "total_points" : 5,
+  "results" : [
+    {
+      "id": "212",
+      "status": "0",
+      "point" : 10
+    },{
+      "id": "213",
+      "status": "1",
+      "point" : -5
+    },
+    {
+      "id" : "882",
+      "status": "2",
+      "point" : 0
+    }
+    ]
+}
