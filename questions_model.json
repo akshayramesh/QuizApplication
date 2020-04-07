@@ -1,0 +1,35 @@
+{
+  "count": 3,
+  "questions": [
+    {
+      "level" : "easy",
+      "question": "What is the capital of India?",
+      "answers": [
+        "New Delhi",
+        "Chennai",
+        "Bangalore"
+      ],
+      "correct": "New Delhi"
+    },
+    {
+      "level" : "moderate",
+      "question": "Who wrote the book 'Wings of fire'?",
+      "answers": [
+        "Abdul Kalam",
+        "M K Gandhi",
+        "Radhakrishnan"
+      ],
+      "correct": "Abdul Kalam"
+    },
+    {
+      "level" : "difficult",
+      "question": "What is density of iron?",
+      "answers": [
+        "222",
+        "333",
+        "123"
+      ],
+      "correct": "222"
+    }
+  ]
+}
