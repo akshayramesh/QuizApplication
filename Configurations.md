@@ -1,3 +1,5 @@
+## VUE Configuration
+
 ### Install vue-cli
 npm install -g @vue/cli
 
@@ -10,3 +12,8 @@ vue create vueapp
 npm run serve  
 
 *(The app starts on http://localhost:8080/ by default)*
+
+## JSON hosting
+
+https://github.com/typicode/json-server 
+
