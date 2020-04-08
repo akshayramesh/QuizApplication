@@ -13,7 +13,10 @@ npm run serve
 
 *(The app starts on http://localhost:8080/ by default)*
 
+Ref: https://www.blog.duomly.com/vue-js-tutorial-how-to-create-vue-js-app-in-5-minutes/ 
+
 ## JSON hosting
 
 https://github.com/typicode/json-server 
+[GitHub](https://github.com/typicode/json-server )
 
