@@ -1,2 +1,2 @@
-###Install vue-cli
+##Install vue-cli
 npm install -g @vue/cli
