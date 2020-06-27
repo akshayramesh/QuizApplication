@@ -19,9 +19,13 @@
 
 ## Resources
 NodeJS: https://www.youtube.com/watch?v=vJEO57B05Sg
+
 Doc file: https://nodejs.org/en/docs/
+
 Vue js: https://www.youtube.com/watch?v=4deVCNJq3qc&t=3111s 
+
 Bootstrap: https://getbootstrap.com/docs
+
 
   
   
