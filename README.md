@@ -18,16 +18,15 @@
 3. DB: (to be analyzed)
 
 ## Resources
-NodeJS: https://www.youtube.com/watch?v=vJEO57B05Sg
-ExpressJS: https://www.youtube.com/watch?v=2ojkb44XObc
-https://www.youtube.com/watch?v=eYVGoXPq2RA
+- NodeJS: https://www.youtube.com/watch?v=vJEO57B05Sg
+- ExpressJS: https://www.youtube.com/watch?v=2ojkb44XObc
+- https://www.youtube.com/watch?v=eYVGoXPq2RA
+- Doc file: https://nodejs.org/en/docs/
 
 
-Doc file: https://nodejs.org/en/docs/
-
-Vue js: https://www.youtube.com/watch?v=4deVCNJq3qc&t=3111s 
-
-Bootstrap: https://getbootstrap.com/docs
+- Vue js: https://www.youtube.com/watch?v=4deVCNJq3qc&t=3111s 
+- CSS: https://www.youtube.com/watch?v=CUxH_rWSI1k
+- Bootstrap: https://getbootstrap.com/docs
 
 
   
