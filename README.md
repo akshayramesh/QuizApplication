@@ -20,6 +20,8 @@
 ## Resources
 NodeJS: https://www.youtube.com/watch?v=vJEO57B05Sg
 ExpressJS: https://www.youtube.com/watch?v=2ojkb44XObc
+https://www.youtube.com/watch?v=eYVGoXPq2RA
+
 
 Doc file: https://nodejs.org/en/docs/
 
